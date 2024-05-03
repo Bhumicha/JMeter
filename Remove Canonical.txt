@@ -1,0 +1,3 @@
+Remove unnecessary ping
+about:config
+network.captive-portal-service.enabled - make it false
